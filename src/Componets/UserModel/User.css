@@ -1,0 +1,82 @@
+.main{
+     width:100%;
+     overflow-x: hidden;
+     display: flex;
+     height: 100vh;
+
+}
+
+.sub1{
+    flex: 1;
+    height: 100%;
+}
+
+
+.logo1{
+    height: 100%;
+    width: 100%;
+
+}
+
+.logo2{
+    height: 100px;
+    width: 200px;
+}
+
+.sub2{
+   
+    flex: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+}
+
+
+.btn{
+
+    background-color: purple;
+    color: aliceblue;
+     width: 100%;
+    
+}
+
+.input{ 
+     
+     padding: 10px 10px;
+     margin-bottom: 10px;
+     font-size: 20px;
+
+}
+
+.title{
+
+    color: purple;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0px;
+}
+
+.p{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+a{
+    position: relative;
+    right: 0;
+}
+
+  
